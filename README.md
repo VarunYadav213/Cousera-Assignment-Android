@@ -1,2 +1,2 @@
 # Cousera-Assignment-Android
-#Drawing Diamond ASCII Art
+Drawing Diamond ASCII Art
